@@ -1,0 +1,4 @@
+{
+    "NYtimes": "h9yKiNk5Z2Mu4r09cMQ984P3sAVaNxUC",
+    "Guardian": "f178bdee-fb07-4966-9fca-6c335d1388a4"
+}

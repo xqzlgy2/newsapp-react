@@ -1,0 +1,94 @@
+.bg-gradient {
+    background: linear-gradient(to right, #13284c, #466fba);
+}
+
+.select-container {
+    width: 14rem;
+}
+
+.content-card {
+    box-shadow: 1px 2px 3px 2px #dddddd;
+}
+
+.content-title {
+    font-family: "Hiragino Kaku Gothic Std", serif;
+    font-style: italic;
+    text-align: left;
+    overflow: hidden;
+}
+
+.content-text {
+    font-family: "Times New Roman", serif;
+    text-align: left;
+    display: -webkit-box;
+    overflow: hidden;
+    overflow-wrap: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+}
+
+.content-footer {
+    padding-top: 0.5rem;
+    font-family: "Arial", serif;
+    font-style: italic;
+    font-size: smaller;
+    font-weight: bolder;
+    text-align: left;
+}
+
+.badge-container {
+    font-size: 1rem;
+    display: inline-block;
+    float: right;
+    margin-right: 3px;
+}
+
+.loader-container {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%,-0%);
+}
+
+.share-title {
+    font-family: Arial, serif;
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+.detail-title {
+    font-family: "Arial", serif;
+    text-align: left;
+    font-size: 1.5rem;
+    font-style: italic;
+}
+
+.detail-date {
+    font-style: italic;
+    display: inline-block;
+    float: left;
+}
+
+.detail-tools {
+    display: inline-block;
+    width: 8rem;
+    float: right;
+}
+
+.favorite-title {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-bottom: 1rem;
+}
+
+.favorite-card-title {
+    font-family: "Hiragino Kaku Gothic Std", serif;
+    font-style: italic;
+    font-size: 0.7rem;
+    text-align: left;
+    display: -webkit-box;
+    overflow: hidden;
+    overflow-wrap: break-word;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+}
